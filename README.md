@@ -6,6 +6,11 @@ The initial mechanical design of a simple quadruped robot dog created in Tinkerc
 
 ---
 
+## Design Preview
+
+![Robot Dog](Robot.png)
+
+---
 # 1. Body and Frame
 
 The robot has a rectangular body that serves as the main chassis. It provides space for electronic components such as the battery, controller, and wiring while keeping the structure lightweight and stable.
